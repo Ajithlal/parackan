@@ -6,4 +6,5 @@ sites/default/files/config_*
 sites/default/services.yml
 sites/default/settings.local.php
 sites/default/files/styles/
+sites/default/files/field/
 themes/blog_themes/.sass-cache/
